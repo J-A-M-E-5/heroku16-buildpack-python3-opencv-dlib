@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Python3 + OpenCV + DLib"
+exit 0
