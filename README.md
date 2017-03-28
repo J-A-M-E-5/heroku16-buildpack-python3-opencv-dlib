@@ -4,7 +4,7 @@
 This buildpack provides a self-contained environment for Python OpenCV/DLib apps.
 
 * Heroku Beta Stack v16 (heroku/heroku:16-build)
-* Python version: 3.4.x
+* Python version: 3.6.1
 * Numpy version: 1.12.1
 * OpenCV version: 3.2.0-dev
 * DLib version: 19.4.0
